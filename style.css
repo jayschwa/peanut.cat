@@ -1,0 +1,11 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-image: url('peanut.jpg');
+	background-position: 13% 55%;
+	background-size: cover;
+}
